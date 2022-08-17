@@ -1,2 +1,5 @@
 # colab
-Documenting all colab investigations
+Documenting all colab materials:
+*  Investigations
+*  Templates
+*  Theory
