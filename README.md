@@ -1,9 +1,8 @@
 # Colab
 
-Documenting all colab materials:
+Documenting colab materials:
 *  Investigations
 *  Templates
-*  Theory
 *  Projects
 
 ## Statistics
