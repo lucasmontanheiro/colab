@@ -110,6 +110,8 @@ Documenting colab materials:
 
 ## Algorithms
 
+- [X] [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People]()
+- [ ] [LECTURE 1: ALGORITHMIC THINKING, PEAK FINDING](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-1-algorithmic-thinking-peak-finding/)
 - [ ] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
 - [ ] [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
 - [ ] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
