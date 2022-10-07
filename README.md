@@ -106,9 +106,6 @@ Documenting colab materials:
 - [ ] [Datacamp: Error and Uncertainty in Spreadsheets](https://www.datacamp.com/courses/error-and-uncertainty-in-spreadsheets)
 - [ ] [edX: Analyzing and Visualizing Data with Excel](https://www.edx.org/course/analyzing-visualizing-data-excel-microsoft-dat206x-7)
 
-<<<<<<< HEAD
-
-
 ## Algorithms
 
 - [X] [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People]()
@@ -120,6 +117,4 @@ Documenting colab materials:
 - [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
 
-=======
->>>>>>> 46aa4dd (added colab)
 ## R
