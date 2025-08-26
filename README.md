@@ -1,5 +1,15 @@
 # Colab
 
+Lingo:
+- **Notebook Document (.ipynb file)**: The actual file that you create and save. It's a JSON file that stores the content of your notebook, including code cells, text cells (Markdown), and the output of executed code.
+- **Cells**: The building blocks of a notebook.
+- **Code Cells**: These contain code to be executed by the kernel.
+- **Markdown Cells**: These contain text formatted using Markdown, which is used for narrative text, documentation, and including images or links.
+- **Kernel**: The "computational engine" that executes the code contained in a notebook.
+- **Jupyter Server**: A backend server that communicates with the browser and the kernel.
+- **Dashboard**: The initial page you see when you launch Jupyter Notebook, used for managing your notebooks. 
+
+
 Documenting colab materials:
 *  Investigations
 *  Templates
